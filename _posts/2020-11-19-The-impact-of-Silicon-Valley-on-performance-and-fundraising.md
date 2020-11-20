@@ -34,6 +34,8 @@ On the other hand, the average size of the Silicon Valley companies' fundraising
 
 First, I analyzed the non-Silicon Valley companies by state to identify which states were contributing the greatest fundraising and performance outcomes.
 
+![Fundraising chart](https://github.com/spantoskey/spantoskey.github.io/assets/img/US%20Fundraising%20(4).png)
+
 As you can see in the chart above, companies from Connecticut, Georgia, and Texas experienced the highest average size of fundraising round for non-Silicon Valley companies. Meanwhile, companies from Massachusetts, Washington State, and California experienced the highest acquisition rate for non-Silicon Valley Companies. You may be wondering: how is California still in the top-10 after removing Silicon Valley / Bay Area from the results? This is because California is home to some of the most thriving metropolitan cities for startup companies, including Los Angeles and San Diego. These are interesting insights, but surely there are other factors contributing to the high performance and fundraising outcomes for non-Silicon Valley companies, right?
 
 To pressure test this hypothesis, I decided to isolate the companies coming from the top-10 non-silicon valley states (in terms of fundraising outcomes) and identify the industries in which these companies reside.
