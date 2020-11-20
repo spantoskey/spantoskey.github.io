@@ -38,9 +38,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "spantoskey@gmail.com"
-  github: spantoskey
- linkedin: "scott-pantoskey-6205a666"
+#   email: "spantoskey@gmail.com"
+#   github: spantoskey
+#  linkedin: "scott-pantoskey-6205a666"
 #   facebook: deanattali
 #   twitter: daattali
 #   patreon: DeanAttali
