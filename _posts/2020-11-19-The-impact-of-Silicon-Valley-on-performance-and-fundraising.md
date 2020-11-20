@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The impact of Silicon Valley on Fundraising and Performance Outcomes
+title: The Impact of Silicon Valley on Fundraising and Performance Outcomes
 subtitle: Exploring the other side of the entrepreneurial economy 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Silicon_valley_title.png
