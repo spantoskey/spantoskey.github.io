@@ -2,7 +2,7 @@
 layout: post
 title: The Impact of Silicon Valley on Fundraising and Performance Outcomes
 subtitle: Exploring the other side of the entrepreneurial economy 
-cover-img: /assets/img/how-to-quickly-capture-todays-untapped-business-opportunities.jpg
+cover-img: /assets/img/edited%20version.jpg
 thumbnail-img: /assets/img/Silicon_valley_title.png
 share-img: /assets/img/Silicon_valley_title.png
 tags: [Python, other]
