@@ -44,7 +44,7 @@ As you can see in the chart above, companies from Connecticut, Georgia, and Texa
 
 To pressure test this hypothesis, I decided to isolate the companies coming from the top-10 non-silicon valley states (in terms of fundraising outcomes) and identify the industries in which these companies reside.
 
-![Fundraising chart](/assets/img/US Fundraising (4).png
+![Fundraising chart](/assets/img/US Fundraising.png
 
 According to the graph above, Mobile, Clean Technology, and Health and Wellness companies experienced the best fundraising outcomes. Although, if an entrepreneur's primary goal is to get acquired, it would be misguided to recommend that he or she build a Health & Wellness company given the very low acquisition rate in this industry, among other reasons. In such a case, an entrepreneur should look to build a Mobile, Software, or Clean Technology company as these industries experienced the highest acquisition rates.
 
