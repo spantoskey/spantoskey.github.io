@@ -15,10 +15,9 @@ author: Scott Pantoskey
 
 navbar-links:
   About Me: "aboutme"
-  Favorite Links:
-    - Lambda School: "https://lambdaschool.com"
-    - Google: "https://www.google.com/"
-  Author's home: "https://deanattali.com"
+  Resources:
+    - Medium: "https://spantoskey.medium.com/"
+  Author's home: "https://spantoskey.medium.com/"
 
 # --- Logo --- #
 
@@ -39,9 +38,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#   email: "spantoskey@gmail.com"
-#   github: spantoskey
-#  linkedin: "scott-pantoskey-6205a666"
+  email: "spantoskey@gmail.com"
+  github: spantoskey
+ linkedin: "scott-pantoskey-6205a666"
 #   facebook: deanattali
 #   twitter: daattali
 #   patreon: DeanAttali
@@ -99,7 +98,7 @@ navbar-col: "#c0e0ff"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
