@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The impact of Silicon Valley on Fundraising and Performance Outcomes
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Exploring the other side of the entrepreneurial economy 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
