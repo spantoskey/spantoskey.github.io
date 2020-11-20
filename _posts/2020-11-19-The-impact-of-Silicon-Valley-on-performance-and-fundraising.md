@@ -12,7 +12,9 @@ tags: [Python, other]
 Since the dot.com boom in the mid-1990s, Silicon Valley has transformed into the global center for technology and innovation, and the home to many of the largest technology organizations and cutting-edge startup companies in the world. This phenomenon continues to reign true today as companies set up operations in or nearby the innovation hub to hire top talent and be in close proximity to a plethora of venture capitalists nearby. This surge in popularity has resulted in a meteoric rise in the hub's cost of living, particularly commercial real estate prices, which raises a very important question for US entrepreneurs: Does being located in Silicon Valley really lead to better fundraising and performance outcomes, or is an entrepreneur better off selecting a less expensive alternative?
 
 # The US Entrepreneurial Economy
-The following chart illustrates the distribution of Venture Capital dollar volume across the United States from 1995 to 2018.
+The following chart illustrates the distribution of Venture Capital dollar volume across the United States from 1995 to 2018
+
+![Fundraising chart](/assets/img/VC funding.png)
 
 As you can see above, venture capital investment has steadily climbed since the dot.com crash in the early 2000s, with almost half of that going to companies located in San Francisco (North Bay Area) and Silicon Valley (South Bay Area). Given these trends, I would like to understand whether companies located in these areas are realizing better outcomes than their peers.
 
@@ -29,16 +31,20 @@ To perform my analysis, which can be found on my GitHub, I employed a top-down a
 
 As you'll see in the chart below, the initial data cut ended up informing the direction of my remaining analyses because of the slightly unanticipated results.
 
+![Fundraising chart](/assets/img/chart.PNG)
+
 Unsurprisingly, the bulk of the funding (~76%) was allocated to the non-Silicon Valley companies, which comprise ~80% of the dataset. Additionally, Silicon Valley companies were almost twice as likely to get acquired than non-Silicon Valley companies, at least partially attributable to their close proximity to a vast VC community, in my opinion.
 On the other hand, the average size of the Silicon Valley companies' fundraising round was roughly $2 million less than their non-Silicon Valley counterparts. Since this metric is calculated by dividing total fundraising dollars (USD) by number of fundraising rounds, this number can increase by increasing the total amount of fundraising dollars, decreasing the number of fundraising rounds, or a combination of both. Either way, this metric seems to entail a healthy fundraising environment for non-Silicon Valley companies. To investigate this 'a-ha' moment, I decided to dive deeper into these non-Silicon Valley companies to learn more information.
 
 First, I analyzed the non-Silicon Valley companies by state to identify which states were contributing the greatest fundraising and performance outcomes.
 
-![Fundraising chart](/assets/img/US%20Fundraising%20(4).png)
+![Fundraising chart](/assets/img/US Fundraising in non-silicon valley markets (7).png)
 
 As you can see in the chart above, companies from Connecticut, Georgia, and Texas experienced the highest average size of fundraising round for non-Silicon Valley companies. Meanwhile, companies from Massachusetts, Washington State, and California experienced the highest acquisition rate for non-Silicon Valley Companies. You may be wondering: how is California still in the top-10 after removing Silicon Valley / Bay Area from the results? This is because California is home to some of the most thriving metropolitan cities for startup companies, including Los Angeles and San Diego. These are interesting insights, but surely there are other factors contributing to the high performance and fundraising outcomes for non-Silicon Valley companies, right?
 
 To pressure test this hypothesis, I decided to isolate the companies coming from the top-10 non-silicon valley states (in terms of fundraising outcomes) and identify the industries in which these companies reside.
+
+![Fundraising chart](/assets/img/US%20Fundraising%20(4).png
 
 According to the graph above, Mobile, Clean Technology, and Health and Wellness companies experienced the best fundraising outcomes. Although, if an entrepreneur's primary goal is to get acquired, it would be misguided to recommend that he or she build a Health & Wellness company given the very low acquisition rate in this industry, among other reasons. In such a case, an entrepreneur should look to build a Mobile, Software, or Clean Technology company as these industries experienced the highest acquisition rates.
 
