@@ -4,7 +4,7 @@ title: The Impact of Silicon Valley on Fundraising and Performance Outcomes
 subtitle: Exploring the other side of the entrepreneurial economy 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Silicon_valley_title.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Silicon_valley_title.png
 tags: [Python, other]
 ---
 Attention Entrepreneurs: Here's the truth behind whether Silicon Valley companies are better positioned for success
